@@ -1,0 +1,12 @@
+.container{
+    padding: 50px;
+    margin: 0px;
+    text-align: center;
+    font-family: Times 'Times New Roman', Times, serif;
+}
+.Quotes-area{
+    border: 2px solid blue;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
